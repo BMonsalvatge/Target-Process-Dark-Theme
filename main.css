@@ -37,7 +37,8 @@ a,
 .entity-progress-box,
 .ui-collapsible-header,
 .fileBrowser,
-.ui-comment-body {
+.ui-comment-body,
+.select__select__7-6-2 {
     background-color: rgb(100, 100, 100) !important;
 }
 

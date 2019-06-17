@@ -20,7 +20,13 @@ a,
 .tau-panel-teams-list__team__responsible-text,
 .uploader-text__command,
 .ui-comment-ago,
-.tau-clientinput h2 {
+.tau-clientinput h2,
+.tau-account-settings-form__label,
+.ui-children-container__note,
+.i-role-name_output,
+.boardsettings-filter__status,
+.tau-board-unit,
+.click-edit__link-text {
     color: rgb(240, 240, 240) !important;
 }
 
@@ -40,7 +46,11 @@ a,
 .tau-container,
 .tau-cover-view_page,
 .tau-cover-view--animated::before,
-.tau-btn {
+.tau-btn,
+.tau-account-settings-container,
+.i-role-pagingholder,
+.tau-board-body-wrapper,
+.tau-board-header {
     color: rgb(255, 255, 255) !important;
     background-color: rgb(64, 64, 64) !important;
 }

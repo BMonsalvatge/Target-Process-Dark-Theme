@@ -26,7 +26,10 @@ a,
 .i-role-name_output,
 .boardsettings-filter__status,
 .tau-board-unit,
-.click-edit__link-text {
+.click-edit__link-text,
+.tau-notification-practices-settings__title,
+.ui-comment__mention-text,
+.i-role-additional-control {
     color: rgb(240, 240, 240) !important;
 }
 
@@ -51,7 +54,9 @@ a,
 .tau-account-settings-container,
 .i-role-pagingholder,
 .tau-board-body-wrapper,
-.tau-board-header {
+.tau-board-header,
+.i-role-tab-item, 
+.nav-tabs__item {
     color: rgb(255, 255, 255) !important;
     background-color: rgb(64, 64, 64) !important;
 }
@@ -62,7 +67,12 @@ a,
 .i-role-tabheader,
 .tau-elems-table,
 .tau-list-line,
-.tau-project-abbreviation{
+.tau-project-abbreviation,
+.nav-tabs__body,
+.i-role-textarea,
+.tau-in-text, 
+.markdown-editor__textarea,
+.drag-and-drop {
     color: rgb(255, 255, 255) !important;
     background-color: rgb(64, 64, 64) !important;
     border-right-color: rgb(100, 100, 100) !important;

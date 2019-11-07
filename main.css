@@ -79,3 +79,13 @@ a,
 .tau-entity-text-color--portfolioepic {
     color: rgb(188, 123, 255) !important;
 }
+
+.tau-clientinput .highlight pre, .tau-clientinput pre {
+    background-color: #393939;
+    border: 1px solid #ddd;
+    font-size: 13px;
+    line-height: 19px;
+    overflow: auto;
+    padding: 8px;
+    border-radius: 3px;
+}

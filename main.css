@@ -108,3 +108,13 @@ a,
     border-radius: 3px;
     color: #ff6329;
 }
+
+.view-header__entity-title.editableText.active {
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: #2b2b2b;
+}
+
+.view-header__entity-title.editableText.hover {
+    background-color: #755c00;
+}

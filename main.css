@@ -99,3 +99,12 @@ a,
     padding: 8px;
     border-radius: 3px;
 }
+
+.tau-clientinput code, .tau-clientinput tt {
+    margin: 0 2px;
+    padding: 0 5px;
+    border: 1px solid #7b7777;
+    background-color: #1f1f1f;
+    border-radius: 3px;
+    color: #ff6329;
+}
